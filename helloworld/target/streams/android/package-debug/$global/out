@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0mPackaging /home/chenwenfeng/work/myrepo/android/helloworld/target/helloworld-0.1.apk[0m
+[0m[[0mdebug[0m] [0mUsing keystore: /home/chenwenfeng/bin/android-sdk-linux/.android/debug.keystore[0m
+[0m[[0mdebug[0m] [0mPackaging helloworld-0.1.apk[0m
+[0m[[0mdebug[0m] [0m/home/chenwenfeng/work/myrepo/android/helloworld/target/resources.apk:[0m
+[0m[[0mdebug[0m] [0m=> res/layout/main.xml[0m
+[0m[[0mdebug[0m] [0m=> AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0m=> resources.arsc[0m
+[0m[[0mdebug[0m] [0m/home/chenwenfeng/work/myrepo/android/helloworld/target/classes.dex => classes.dex[0m
+[0m[[0mdebug[0m] [0m/home/chenwenfeng/work/myrepo/android/helloworld/target/classes.min.jar:[0m
+[0m[[0mdebug[0m] [0m=> library.properties[0m
